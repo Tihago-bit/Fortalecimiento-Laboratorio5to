@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/et12alumno/Descargas/Fortalecimiento/1erBimestre/Ejercicio6/Ejercicio6.csproj",
+      "projectUniqueName": "/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio6/Ejercicio6.csproj",
       "projectName": "Ejercicio6",
-      "projectPath": "/home/et12alumno/Descargas/Fortalecimiento/1erBimestre/Ejercicio6/Ejercicio6.csproj",
+      "projectPath": "/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio6/Ejercicio6.csproj",
       "packagesPath": "/home/et12alumno/.nuget/packages/",
-      "outputPath": "/home/et12alumno/Descargas/Fortalecimiento/1erBimestre/Ejercicio6/obj/",
+      "outputPath": "/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/et12alumno/.nuget/NuGet/NuGet.Config"
