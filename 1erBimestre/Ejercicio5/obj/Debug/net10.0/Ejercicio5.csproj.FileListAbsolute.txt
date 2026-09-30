@@ -1,0 +1,14 @@
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/bin/Debug/net10.0/Ejercicio5
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/bin/Debug/net10.0/Ejercicio5.deps.json
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/bin/Debug/net10.0/Ejercicio5.runtimeconfig.json
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/bin/Debug/net10.0/Ejercicio5.dll
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/bin/Debug/net10.0/Ejercicio5.pdb
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/obj/Debug/net10.0/Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/obj/Debug/net10.0/Ejercicio5.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/obj/Debug/net10.0/Ejercicio5.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/obj/Debug/net10.0/Ejercicio5.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/obj/Debug/net10.0/Ejercicio5.dll
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/obj/Debug/net10.0/refint/Ejercicio5.dll
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/obj/Debug/net10.0/Ejercicio5.pdb
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/obj/Debug/net10.0/Ejercicio5.genruntimeconfig.cache
+/home/et12alumno/Escritorio/Fortalecimiento/1erBimestre/Ejercicio5/obj/Debug/net10.0/ref/Ejercicio5.dll
